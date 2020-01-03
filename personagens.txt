@@ -3,3 +3,5 @@ Obi Wan Kenobi
 chewbacca
 Han Solo
 
+Rey
+Finn
