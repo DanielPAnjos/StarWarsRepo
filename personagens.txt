@@ -2,6 +2,9 @@ Luke Skywalker
 Obi Wan Kenobi
 chewbacca
 Han Solo
+Jabba th Hutt
+
+Kylo Ren
 
 Rey
 Finn
